@@ -28,4 +28,4 @@ This .ipynb file contains the complete code for this project. First, a classific
 This.py file has utility methods for the YOLO model. Courtesy of [Jason Brownlee](https://machinelearningmastery.com/how-to-perform-object-detection-with-yolov3-in-keras/).
 
 ## Results
-The results of the project can be seen closely by looking at the code in the .ipynb file.
+The results of the project can be seen closely by looking at the code in the .ipynb file and the output.mp4 file in the project.
